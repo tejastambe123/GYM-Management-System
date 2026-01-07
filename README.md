@@ -1,2 +1,17 @@
-# GYM-Management-System
-🏋️A Java Swing–based desktop application for managing gym members, payments, and records with MySQL database integration. Includes features like admin login, member registration, update/delete, payment tracking, and member listing.
+## 📸 Screenshots
+
+### 🔐 Login Screen
+![Login](screenshots/login..png)
+
+### 🏠 Home Dashboard
+![Home](screenshots/Home.png)
+
+### ➕ Add New Member
+![New Member](screenshots/New_Member.png)
+
+### 📋 List of Members
+![List](screenshots/List_Members.png)
+
+### 💳 Payment Management
+![Payment](screenshots/Payment_Management.png)
+
